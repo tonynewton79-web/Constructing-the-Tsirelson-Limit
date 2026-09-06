@@ -660,8 +660,7 @@ These are research targets, not claims already established by this repository.
 
 **Authors**
 
-Tony Newton and S. P. Sorella
-
+Tony Newton 
 The manuscript is intended to be read together with this repository: the paper provides the mathematical and physical derivation, while the repository provides the compact computational replay/certificate layer.
 
 When an arXiv identifier or DOI is assigned, it should be added here together with the final bibliographic citation.
@@ -670,10 +669,10 @@ When an arXiv identifier or DOI is assigned, it should be added here together wi
 
 # Citation
 
-Until a DOI/arXiv identifier is available, cite the work by title and authors:
+https://doi.org/10.5281/zenodo.22544064
 
 ```text
-Tony Newton and S. P. Sorella,
+Tony Newton 
 "Constructing the Tsirelson Limit: Finite Weyl Observables and
 Double-Cone Modular Geometry for Bosonic Bell–CHSH Violations."
 ```
