@@ -7,12 +7,7 @@ Newton Astro Labs*
 London, UK  
 tony.newton79@gmail.com  
 
-**S. P. Sorella**  
-Instituto de Física Armando Dias Tavares  
-Universidade do Estado do Rio de Janeiro  
-Rua São Francisco Xavier 524  
-20550-900 Maracanã, Rio de Janeiro, Brazil  
-silvio.sorella@fis.uerj.br  
+
 
 > *Newton Astro Labs is the trading name under which Tony Newton conducts independent computational research in the United Kingdom; it is not a limited company.*
 
